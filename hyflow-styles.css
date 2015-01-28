@@ -65,9 +65,7 @@ body img {
 	}
 	
 footer {
-	position:fixed;
-	bottom:1em;
-	clear:both;
+	clear:left;
 	font-size:0.75em;
 	text-align:center;
 	font-style:italic;
