@@ -70,8 +70,12 @@ footer {
 	font-style:italic;
 }
 
-footer span {
+footer a {
 	color:Cornsilk;
+}
+
+footer a:hover {
+	color:BurlyWood;
 }
 	
 @media (min-width:500px) {
