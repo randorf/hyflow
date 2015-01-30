@@ -38,31 +38,33 @@ a:hover {
 }
 
 div {
-	display:inline-block;
 	float:left;
 	margin:4%;
 }
 
 blockquote {
-	padding:0.5em 3em;
-	font-style:italic;
-}
+	padding:0.5em 2em;
+	}
 
 body img {
 	border:1px;
 	border-radius:5px;
 	}
-	
-#rainbird img, #Danny img {
-	display:block;
-	margin:0 auto;
+
+img {display:block;}
+
+#logo {
 	max-width:250px;
-	display:hidden;
+	margin-top:0.25em;
+	border:1px;
+	border-radius:5px 5px 0 0;
 	}
 
-#rainbird img {
-	margin-top:0.25em;
-	}
+#danny {
+	border:1px;
+	border-radius:0 0 5px 5px;
+
+}
 	
 footer {
 	clear:left;
