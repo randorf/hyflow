@@ -1,14 +1,13 @@
 html { 
+	background: url(http://www.rainbird.com/documents/corporate/imagelibrary/beauty/RotorsBeauty.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color:#7BB57A;
   }
 
 body {
-	background: url(http://www.rainbird.com/documents/corporate/imagelibrary/beauty/RotorsBeauty.jpg) no-repeat center center fixed; 
-	-webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
- /* background-attachment:local;*/
-  background-color:#7BB57A;
 	font-family: 'Open Sans', Arial, sans-serif;
 	font-size:20px;
 	color:BurlyWood;
